@@ -1,0 +1,96 @@
+.item {
+  padding: 10px;
+  line-height: 1;
+}
+.item-thum {
+  background-color: #ccc;
+  width: 50px;
+  height: 50px;
+  border-radius: 4px;
+}
+.item-title {
+  font-size: 15px;
+  font-weight: 500;
+}
+.item-desc {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.3;
+  margin: 4px 0 0 0;
+  padding: 0 30px 0 0;
+}
+.item-label {
+  font-size: 12px;
+  color: #999;
+  float: right;
+}
+.item-latitude, .item-longitude {
+  display: none;
+}
+#map {
+  height: 520px;
+}
+
+.icon-field {
+    background:#FC630F;
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    padding-top: 190px;
+}
+
+.icon-field img {
+    max-width: 100%;
+    width: 50%;
+    height: auto;
+}
+
+#list-img img {
+  width: 100%;
+  height: auto;
+  margin-bottom: -3.02px;
+}
+
+.navigation-bar {
+    background: #FF9800;
+    color: white;
+}
+
+.onsen-toolbar {
+    color: white;
+}
+
+.navigation-bar__title {
+  line-height: 44px;
+  font-size: 17px;
+  font-weight: 500;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  overflow: visible;
+}
+
+.ion-ios-arrow-back:before {
+    color: white;
+}
+
+.back-button__label {
+    color: white;
+}
+
+#review-page .list__item{
+    color: #EF6C00;
+}
+
+#star-value {
+    display: none;
+}
+
+.fa-lg {
+    font-size: 1.6em;
+}
+
+.button--large {
+    background: #EF6C00;
+    color: white;
+}
